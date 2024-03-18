@@ -20,3 +20,7 @@ target_platform:
 - osx-arm64
 zlib:
 - '1.2'
+
+CONDA_BUILD_SYSROOT:
+- /Users/mdiener/Work/etest/pocl-feedstock/SDKs/MacOSX11.0.sdk
+
